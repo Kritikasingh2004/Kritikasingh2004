@@ -1,6 +1,6 @@
 # Hello, World! 🚀 I'm Kritika, your friendly neighborhood web developer! 👩‍💻✨
 
-Welcome to the realm of possibilities on my GitHub playground! I go by the alias "The Great Kritika" because, let's face it, coding is a bit of a superhero gig. 😉
+Welcome to the realm of possibilities in my GitHub playground! I go by the alias 'The Great Kritika' because, well, why not?
 
 ## 🌱 Currently Unleashing My Coding Superpowers On
 Right now, I'm on a quest to sharpen my web development skills. Picture me as a coding samurai slicing through HTML, CSS, and JavaScript like a true ninja!
