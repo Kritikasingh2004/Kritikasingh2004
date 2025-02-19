@@ -17,8 +17,8 @@ I'm currently honing my skills as a Software Development Intern at [Airlyft](htt
 <img src="./images/vue.webp" width="50" height="50" alt="Vue.js">
 <img src="./images/bootstrap.png"  height="50" alt="Bootstrap">
 <img src="./images/tailwind.png"  height="50" alt="Tailwind CSS">
-<img src="./images/next.svg" width="50" height="50" alt="Next.js" style="background-color: white; border-radius: 50%;">
-<img src="./images/github.png" width="50" height="50" alt="GitHub" style="background-color: white; border-radius: 50%;">
+<img src="./images/next.png" width="50" height="50" alt="Next.js" style=" border-radius: 50%;">
+<img src="./images/github.png" width="50" height="50" alt="GitHub" style="border-radius: 50%;">
 <img src="./images/firebase.webp" width="50" height="50" alt="Firebase">
 <img src="./images/postgresql.png" width="50" height="50" alt="PostgreSQL">
 <img src="./images/figma.png" width="50" height="50" alt="Figma">
