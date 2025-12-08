@@ -1,59 +1,94 @@
-# Hello, World! 🚀
+<img src="/images/Hello.gif" alt="GitHub Banner" width="1584" />
 
-## I'm Kritika, your friendly neighborhood developer! 👩‍💻✨
 
-Welcome to the realm of possibilities in my GitHub playground! I go by the alias 'The Great Kritika' because, well, why not?
+<h2 align="center">I'm Kritika!</h2>
+<p align="center">Your friendly neighborhood developer 👩‍💻✨</p>
 
-## 🌱 Currently Exploring
+---
 
-I'm currently honing my skills as a Software Development Intern at [Airlyft](https://airlyft.one), where I dive into exciting projects and technologies.
+<p align="center">
+<code>
+  Welcome to the Upside Down (my github profile btw)! I go by the alias 'The Great Kritika' because, well, why not?
+</code>
+</p>
 
-## 🛠 Skills
+
+<p align="center">
+  🌱 <strong>Interned at Kyte Research as SDE</strong><br>
+  🎓 Bachelor of Computer Applications | 🏆 Reliance Foundation Undergraduate Scholar
+</p>
+
+###
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="NestJS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="GraphQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+</p>
+
+###
+
+---
+
+<h2 align="center">💬 Let's Collaborate!</h2>
+
+---
+<p align="center">
+<code>You know the business and I know the chemistry. I'm thinking maybe you and I could partner up 🤝</code> 
+</p>
 
 <div align="center">
-
-<img src="./images/javascript.png" width="50" height="50" alt="JavaScript">
-<img src="./images/react.webp" width="50" height="50" alt="React">
-<img src="./images/vue.webp" width="50" height="50" alt="Vue.js">
-<img src="./images/bootstrap.png"  height="50" alt="Bootstrap">
-<img src="./images/tailwind.png"  height="50" alt="Tailwind CSS">
-<img src="./images/next.png" width="50" height="50" alt="Next.js" style=" border-radius: 50%;">
-<img src="./images/github.png" width="50" height="50" alt="GitHub" style="border-radius: 50%;">
-<img src="./images/firebase.webp" width="50" height="50" alt="Firebase">
-<img src="./images/postgresql.png" width="50" height="50" alt="PostgreSQL">
-<img src="./images/figma.png" width="50" height="50" alt="Figma">
-<img src="./images/canva.webp" width="50" height="50" alt="Canva">
-
+  <a href="mailto:kritikasingh00.com@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Email"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/the-kritika-singh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/TheKriticizm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Twitter"  />
+  </a>
 </div>
 
-## 🌐 My Portfolio
+###
 
-Check out my portfolio for more projects and information about me: [The Great Portfolio](https://www.kritika.tech/)
+---
 
-## 💬 Let's Collaborate!
+<img src="https://raw.githubusercontent.com/KritikaSingh2004/KritikaSingh2004/output/snake.svg" alt="Snake animation" />
 
-Feel free to reach out for collaboration! 🤝
+###
 
-<div align="center">
+---
 
-<a href="https://www.linkedin.com/in/kritika-singh-1634b322a/">
-    <img src="./images/linkedin.png" width="50" height="50" alt="LinkedIn">
-</a>
-<a href="mailto:kritikasingh00.com@gmail.com">
-    <img src="./images/gmail.webp" width="50" height="50" alt="Email">
-</a>
-<a href="https://x.com/TheKriticizm">
-    <img src="./images/twitter.webp" width="50" height="50" alt="twitter">
-</a>
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritikasingh2004&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritikasingh2004&layout=compact&theme=radical)
-
-Thanks a ton for dropping by my coding lair! 🎉 Let's keep the code fires burning! 🔥
+<p align="center">
+  <strong>Thanks for dropping by my coding lair!</strong>
+<br/>
+May the odds be ever in your favor. 🏹
+</p>
