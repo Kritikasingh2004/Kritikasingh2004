@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<code>Welcome to the Upside Down (my github profile btw)! I go by the alias 'The Great Kritika' because, well, why not?</code>
+<code>Welcome to the Upside Down (my github profile btw)! I go by the alias 'Kriticizm' because, well, why not?</code>
 </p>
 
 
@@ -85,5 +85,5 @@
 <p align="center">
   <strong>Thanks for dropping by my coding lair!</strong>
 <br/>
-May the odds be ever in your favor. 🏹
+May the odds be ever in your favor 🏹
 </p>
