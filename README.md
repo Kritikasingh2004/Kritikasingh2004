@@ -19,7 +19,7 @@
 </p>
 
 ###
-<h2></h2>
+<br/>
 <h2 align="center">🛠️ Tech Stack</h2>
 
 
@@ -50,8 +50,8 @@
 </p>
 
 ###
+<br/>
 
-<h2></h2>
 <h2 align="center">💬 Let's Collaborate!</h2>
 
 <p align="center">
@@ -74,13 +74,13 @@
 
 ###
 
----
+
 
 <img src="https://raw.githubusercontent.com/KritikaSingh2004/KritikaSingh2004/output/snake.svg" alt="Snake animation" />
 
 ###
 
----
+
 
 <p align="center">
   <strong>Thanks for dropping by my coding lair!</strong>
