@@ -4,7 +4,9 @@
 <h2 align="center">I'm Kritika!</h2>
 <p align="center">Your friendly neighborhood developer 👩‍💻✨</p>
 
----
+###
+<br/>
+
 
 <p align="center">
 <code>Welcome to the Upside Down (my github profile btw)! I go by the alias 'The Great Kritika' because, well, why not?</code>
@@ -17,9 +19,7 @@
 </p>
 
 ###
-
----
-
+<h2></h2>
 <h2 align="center">🛠️ Tech Stack</h2>
 
 
@@ -51,8 +51,7 @@
 
 ###
 
----
-
+<h2></h2>
 <h2 align="center">💬 Let's Collaborate!</h2>
 
 <p align="center">
