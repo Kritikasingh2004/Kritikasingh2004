@@ -7,9 +7,7 @@
 ---
 
 <p align="center">
-<code>
-  Welcome to the Upside Down (my github profile btw)! I go by the alias 'The Great Kritika' because, well, why not?
-</code>
+<code>Welcome to the Upside Down (my github profile btw)! I go by the alias 'The Great Kritika' because, well, why not?</code>
 </p>
 
 
@@ -24,7 +22,6 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
----
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
@@ -58,7 +55,6 @@
 
 <h2 align="center">💬 Let's Collaborate!</h2>
 
----
 <p align="center">
 <code>You know the business and I know the chemistry. I'm thinking maybe you and I could partner up 🤝</code> 
 </p>
