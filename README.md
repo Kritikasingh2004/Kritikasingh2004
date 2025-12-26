@@ -74,9 +74,16 @@
 
 ###
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/394a3683-47f0-4d56-8d33-120906932b35/thumbnail" >
+</p>
+
+###
 
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/KritikaSingh2004/KritikaSingh2004/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
